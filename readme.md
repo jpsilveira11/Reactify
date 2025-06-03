@@ -5,7 +5,7 @@
 Clone do Spotify utilizando React e Vite.
 
 ## Tecnologias utilizadas
-[![Stacks](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,vite,npm)](https://skillicons.dev)
+![Stacks](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,vite,npm)
 
 ### Contribuições
 
