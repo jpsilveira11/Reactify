@@ -1,4 +1,4 @@
-# <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> [Reactify](https://github.com/jpsilveira11/Reactify) <img align="center" alt="Spotify" height="40" width="40" src="misc/icons/spotify-logo.svg">
+# <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> [Reactify](reactify-pztc.onrender.com) <img align="center" alt="Spotify" height="40" width="40" src="misc/icons/spotify-logo.svg">
 
 <img src="misc/images/Snapshot.png">
 
